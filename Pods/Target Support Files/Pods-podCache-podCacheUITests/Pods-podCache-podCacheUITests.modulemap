@@ -1,0 +1,6 @@
+framework module Pods_podCache_podCacheUITests {
+  umbrella header "Pods-podCache-podCacheUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
